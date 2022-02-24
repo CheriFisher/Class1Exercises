@@ -1,1 +1,1 @@
-document.body.style.backgroundColor = "grey";
+document.getElementById("h1").style.color = "purple";
